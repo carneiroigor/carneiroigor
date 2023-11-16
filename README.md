@@ -1,13 +1,13 @@
-## Olá, eu sou o Igor Carneiro 👋
-Como entrar em contato comigo:
+## Hi, I'm Igor Carneiro 👋
+How to reach me:
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devigorcarneiro@gmail.com?subject=&body=)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-carneiro-40a018294/)
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=carneiroigor&show_icons=true&theme=dark)
-[![Linguagens Utlizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=carneiroigor)](https://github.com/anuraghazra/github-readme-stats)
+[![Laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=carneiroigor)](https://github.com/anuraghazra/github-readme-stats)
 
-## Minhas principais tecnologias!
+## Main Stack
 
 <div style="display: inline_block;"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,8 +19,8 @@ Como entrar em contato comigo:
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div><br/>
 
-## Sobre Mim
-- Apaixonado por tecnologia e programação, aprendendo e evoluindo a cada dia.
-- Tenho 19 anos.
-- Morando atualmente em São Paulo.
-- Pretendo cursar engenharia de software no futuro...
+## About me
+- Passionate about technology and programming, learning and evolving every day.
+- I am 19 years old.
+- Living in São Paulo - Brazil.
+- I plan to study software engineering in the future...

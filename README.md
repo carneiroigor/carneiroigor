@@ -18,4 +18,8 @@
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div><br/>
 
-Apaixonado por tecnologia e programação, aprendendo e evoluindo a cada dia. Gostaria de colaborar em projetos de FrontEnd!
+## Sobre Mim
+- Apaixonado por tecnologia e programação, aprendendo e evoluindo a cada dia.
+- Tenho 19 anos.
+- Morando atualmente em São Paulo.
+- Pretendo cursar engenharia de software no futuro...

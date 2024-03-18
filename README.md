@@ -24,3 +24,5 @@ How to reach me:
 - I am 19 years old.
 - Living in São Paulo - Brazil.
 - I plan to study software engineering in the future...
+
+## 1 day studying... 🎯

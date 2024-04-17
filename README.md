@@ -6,6 +6,8 @@ How to reach me:
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=carneiroigor&show_icons=true&theme=dark)
 [![Laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=carneiroigor)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carneiroigor)](https://git.io/streak-stats)
 
 ## Main Stack
 

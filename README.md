@@ -25,4 +25,4 @@ How to reach me:
 - Living in São Paulo - Brazil.
 - I plan to study software engineering in the future...
 
-### 31 days focused studying... 🎯
+### 32 days focused studying... 🎯

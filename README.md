@@ -23,6 +23,6 @@ How to reach me:
 - Passionate about technology and programming, learning and evolving every day.
 - I am 20 years old.
 - Living in São Paulo - Brazil.
-- I plan to study software engineering in the future...
+- I plan to study software engineering in the future.
 
 ### 34 days focused studying... 🎯

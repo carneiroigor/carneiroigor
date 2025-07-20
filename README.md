@@ -26,4 +26,4 @@ How to reach me:
 - Living in São Paulo - Brazil.
 - Studying Software Engineering at Estácio de Sá University.
 
-### 2/191 🎯
+1/166
